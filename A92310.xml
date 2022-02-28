@@ -1,0 +1,568 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The receiver undeceived, or, An Answer to the author of a late sheet entituled Of receiving the Communion in the company of such, whom we conceive not so good, holy, and rightly principled, as we wish they were with an appendix for this proposition, Vngodly persons ought not to be admitted to the Holy Supper / by Sionophilus Ecthrobabylonicus.</title>
+            <author>Ecthrobabylonicus, Sionophilus.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92310</idno>
+            <idno type="STC">Wing R626</idno>
+            <idno type="STC">ESTC R42553</idno>
+            <idno type="EEBO-CITATION">36282308</idno>
+            <idno type="OCLC">ocm 36282308</idno>
+            <idno type="VID">150215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92310)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2236:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The receiver undeceived, or, An Answer to the author of a late sheet entituled Of receiving the Communion in the company of such, whom we conceive not so good, holy, and rightly principled, as we wish they were with an appendix for this proposition, Vngodly persons ought not to be admitted to the Holy Supper / by Sionophilus Ecthrobabylonicus.</title>
+                  <author>Ecthrobabylonicus, Sionophilus.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>Printed in the yeare 1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: stained and tightly bound, with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Of receiving the Communion.</term>
+               <term>Lord's Supper --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:150215:1" rendition="simple:additions"/>
+            <p>
+               <hi>The Receiver undeceived:</hi> OR AN ANSWER TO THE AVTHOR OF A late Sheet entituled, <hi>Of Receiving the Communion in the Company of ſuch, whom we conceive not ſo good, holy, and rightly principled, as we wiſh they were.</hi>
+            </p>
+            <p>WITH An Appendix for this Propoſition, <hi>Vngodly Perſons ought not to be admitted to the holy Supper.</hi>
+            </p>
+            <p>
+               <hi>By</hi> SIONOPHILUS ECHTHROBABYLONICUS.</p>
+            <q>
+               <bibl>
+                  <hi>Luk. 22.19.</hi>
+               </bibl>
+               <p>My body given for <hi>You.</hi>
+               </p>
+               <bibl>
+                  <hi>20.</hi>
+               </bibl>
+               <p>Blood ſhed for <hi>You.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>Act. 20.7.</hi>
+               </bibl>
+               <p>When the <hi>Diſciples</hi> came together to break bread.</p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 10.16.</hi>
+               </bibl>
+               <p>The cup of bleſſing which we bleſſe, is it not the
+<hi>Communion of the blood of Chriſt?</hi>
+               </p>
+               <bibl>
+                  <hi>v. 17.</hi>
+               </bibl>
+               <p>We being many are <hi>one bread</hi> and <hi>one body.</hi>
+               </p>
+            </q>
+            <q>
+               <bibl>
+                  <hi>1 Cor. 11.29.</hi>
+               </bibl>
+               <p>For he that eateth and drinketh unworthily, eateth and drinketh
+<hi>Damnation</hi> to himſelfe, &amp;c.</p>
+            </q>
+            <p>
+               <hi>OXFORD,</hi> Printed in the yeare 1651.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:150215:2"/>
+            <pb n="1" facs="tcp:150215:2"/>
+            <head>The Readers Admonition.</head>
+            <opener>
+               <salute>READER,</salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am not ignorant that this preſent age is cloy'd with
+<hi>publique</hi> controverſies. Nor that the ſubject I diſ<g ref="char:EOLhyphen"/>courſe of hath the weaker ſide, as to the <hi>Vulgar</hi> ap<g ref="char:EOLhyphen"/>probation. Mine ayme is truly tould thee in the <hi>Title;</hi> how well the marke is hitt, thy ſelfe mayſt tell me in the <hi>tryall.</hi> I hope thou wilt prove none of thoſe that ſet <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir
+<hi>Conſcience</hi> in Religion, by their <hi>Country;</hi> not Gods
+<hi>Counſell.</hi> Tis found too true, that <hi>cuſtome</hi> is a
+<hi>ſecond nature.</hi> And <hi>preſcripti<g ref="char:EOLhyphen"/>on,</hi> even in Chriſtianity carries a greater ſtroake then <hi>Scripture</hi> doth with very
+<hi>many,</hi> nor the <hi>meaner</hi> onely. Hence are thoſe pleas: <hi>Has been the cuſtome: And by our Fathers too before us.</hi>
+               <note place="margin">Joh. 4.</note> Alas! but did not the <hi>Samaritanes</hi> ſay the ſame? And <hi>Peter; A vaine converſati<g ref="char:EOLhyphen"/>on was received by tradition from your Fathers.</hi>
+               <note place="margin">1 Pet. 1.</note> Yet more parti<g ref="char:EOLhyphen"/>cularly: Approaching to Chriſts table is a <hi>Caſe</hi> of <hi>life &amp; death.</hi> It coſt him deare that had not on his wedding garment at the feaſt.<note place="margin">Mat. 22.</note> What pitty notwithſtanding is't to ſee how ſinners on the grounds a<g ref="char:EOLhyphen"/>foreſaid, ruſh thereto, as horſes to the battell, upon their ruine. And thoſe moſt eager for it that leaſt underſtand the hazard of it. No marvell the Apoſtle chargeth to
+<hi>Examine:</hi> not in the former formall road, but as 'tis elſewhere,
+<hi>Whether ye be in the faith or not;</hi> and,<note place="margin">1 Co. 11. 2 Cor. 13.5.</note> 
+               <hi>Know ye not that Jeſus Chriſt dwelleth in you, except ye be re<g ref="char:EOLhyphen"/>probates.</hi> Sure, Reader, then thou haſt cauſe to <hi>try,</hi> before thou <hi>truſt;</hi> to be well <hi>adviſed</hi> ere thou
+<hi>adventure</hi> on buſineſſe of eternall co<g ref="char:cmbAbbrStroke">̄</g>ſe<g ref="char:EOLhyphen"/>quence. However I have done my part thus to <hi>fore-warn;</hi> looke thou to thine, to be
+<hi>fore-armed,</hi> elſe at thy perill be it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="answer">
+            <pb n="2" facs="tcp:150215:3"/>
+            <head>
+               <hi>To the Author of the Sheet entituled</hi> [Of receiving the Communion in the company of &amp;c.]</head>
+            <p>
+               <seg rend="decorInit">Y</seg>Ou undertake the reſolution of a <hi>Caſe of Conſcience;</hi> but (if I miſtake not) leave it in as bad a
+<hi>Caſe</hi> as e're you found it. I would, without your prejudice, caſt in my mite to prevent <hi>abortion</hi> of ſuch an hopefull
+<hi>Iſſue.</hi> Tis not the <hi>Credit,</hi> but the <hi>Cauſe</hi> I ſerve, which makes me, (though my skill be little at the weapon,) take up the buckler with you yet as at all would I not be <hi>your, Enemy,</hi> ſo muſt I to the utmoſt be <hi>Truthes friend</hi> herein;<note place="margin">2 Cor.
+13.</note> you know who ſaid, <hi>We can doe nothing a<g ref="char:EOLhyphen"/>gainſt the Truth, but for the Truth.</hi>
+            </p>
+            <div n="title" type="part">
+               <head>
+                  <note place="margin">Title exam. Former part.</note>Firſt to your <hi>Title,</hi> then your <hi>Text.</hi>
+               </head>
+               <p>That former truely halts downe right: but, whether its a
+<hi>ſlip,</hi> or <hi>ſubtilty,</hi> I don't determine. However it begins, and ends alike: indeed, 'tis <hi>current</hi> in neither. The former part enquireth <hi>of receving the Communion</hi> barely;<note place="margin">Diſciples ig<g ref="char:EOLhyphen"/>norance, Peters Curſing &amp; Swearing, Ju<g ref="char:EOLhyphen"/>das's Treaſon. <hi>And Prolepſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> and Poſ.</hi> 3. <hi>and</hi> 7. <hi>Sub finem.</hi>
+                  </note> as if you meant to ſatisfie <hi>receivers</hi> only, about communicating with thoſe they think unworthy: whereas 'tis<note n="*" place="margin">See Poſ. <hi>1,</hi> &amp; <hi>2.</hi>
+                  </note> elſewhere evi<g ref="char:EOLhyphen"/>dent your purpoſe is to defend
+<hi>Diſpenſers</hi> alſo, and that too in admitting<note n="*" place="margin">See Poſ. <hi>1,</hi> &amp; <hi>2.</hi>
+                  </note> any or all, notwithſtanding<note n="*" place="margin">See Poſ. <hi>1,</hi> &amp;
+<hi>2.</hi>
+                  </note> ignorance or prophaneſſe, (as the Cuſtome was) unto that Ordinance; <pb n="3" facs="tcp:150215:3"/>with reproofe of ſuch as practiſe otherwiſe. And this indeed is the <hi>White</hi> you chiefly aime at; as may be ſeene apparent<g ref="char:EOLhyphen"/>ly, if the Reader will but <hi>truſt</hi> to his owne
+<hi>eyes,</hi> before he <hi>take</hi> your <hi>word.</hi> Truely ſuch
+<hi>dealing</hi> then is but a kind of <hi>dodging</hi> with us; except you'ld have us think we have cauſe to thanke you for that as <hi>over meaſure.</hi>
+               </p>
+               <p>But yet there's worſe behind, where it proceedeth <q>
+                     <hi>[In the Company of ſuch whom wee conceive not ſo good, holy, and rightly principled &amp;c.]</hi>
+                     <note place="margin">Latter part.</note>
+                  </q> Sir, let me be ingenuous with you: were all your following Arguments cleare demon<g ref="char:EOLhyphen"/>ſtrations above all poſſibility of exception, <hi>'Twere but the Conqueſt of a man of ſtraw your ſelfe ſat up.</hi> Who doubteth but the leaſt degree of goodneſſe, holineſſe, and rightly prin<g ref="char:EOLhyphen"/>cipledneſſe, (to uſe your termes) or ſaving faith, (as others ſpeake more properly) who doubts, I ſay, but this as it entitles to the
+<hi>Thing,</hi> much rather to the <hi>Signe</hi> and <hi>Scale</hi> the
+<hi>Sacrament?</hi> And as for that addition <q>
+                     <hi>[As wee wiſh they were.]</hi>
+                  </q> That is as true (if I may uſe that proverb) as the very
+<hi>Goſpell.</hi> where is <hi>He</hi> that hath made the forward'ſt progreſſe in the way of godlineſſe, but yet muſt ſay (Lay by the Ranters and their retinue) with bleſſed <hi>Paul</hi> to the
+<hi>Philippians, I am not already perfect:</hi> and ſo may have our wiſhes, as they had his, to <hi>abound yet more and more.</hi>
+                  <note place="margin">Phil.
+3.12. &amp;c. 1.9.</note> And then what newes you tell us! When the blind may ſee, 'tis of neceſſity to receive with ſuch, or elſe with none at all. In this we are agreed.</p>
+               <p>And now, good Reader, perchance thou'lt thinke the quarrell ended; and it were indeed, but that there is an <hi>Ambuſh</hi> layd, which (it may be) is not obſerved by thee. Theſe are our Authour's words tis true; but for his mind we muſt <hi>divo deeper</hi> before we <hi>fetch that up.</hi> There's no great danger in the venture. Compare his place quoted in the margent of the former page with this his Title. The ſence is plaine. He takes for granted, that our Engliſh pariſhes are Saints Aſſemblies, nor onely thus <hi>profeſſedly,</hi> but <hi>poſitively</hi> alſo: (although the generality are either dead in ignorance, or <pb n="4" facs="tcp:150215:4"/>buried in prophaneſſe, or both) &amp; therefore having, as he ſuppoſeth, ſome<note n="*" place="margin">
+                     <hi>See Title</hi> ſo good, holy, &amp;c.</note> 
+                  <hi>good</hi> degree though not ſo <hi>great,</hi> as we could wiſh, of goodneſſe, holineſſe &amp;c. (you know the language) there is no reaſon to ſuſpend them from the <hi>Communion,</hi> or our ſelves from <hi>communicating with them.</hi> But where's the proofe of this? Or muſt the Reader give, be<g ref="char:EOLhyphen"/>cauſe he begs that queſtion of him? We know what<note n="*" place="margin">
+                     <hi>Numb. 16.13.</hi> [Congrega<g ref="char:EOLhyphen"/>tion holy, every one of them.</note> 
+                  <hi>Korah</hi> ſaid, and the Papiſts think, but that won't ſerve the turn. Nor muſt we truſt, in ſuch like caſes, the
+<hi>word of Man,</hi> unleſſe <hi>Gods Word</hi> be <hi>paſſed</hi> for it: much leſſe when 'tis againſt it, yet ſuch is the foundation of all our Authors building. But that I leave, with his Title too, unto thy Cenſure, and ſhall enquire whether it be mended after in his Text.</p>
+               <p>This ſtands divided into 7 Poſitions as you terme them.</p>
+            </div>
+            <div n="1" type="position">
+               <head>
+                  <label type="milestone">
+                     <seg type="milestoneunit">Poſ. </seg>1</label>
+                  <note place="margin">exam.</note> The firſt is this.</head>
+               <p>
+                  <q>[<hi>Jeſus Chriſt gave the Communion to</hi> Peter, <hi>who he knew would deny him with curſing and ſwearing; and indeed ſo did.</hi>]</q> yet Sir, you name but <hi>one temptation</hi> wherein <hi>Peter</hi> had the foyle ſo foulely, whereof he ſoon repented alſo, and that with bitter teares, and what's this to <hi>continued viees</hi> of thoſe unrepenting ones, againſt whoſe ſuſpenſion yet you plead, And truely Sir, you might have been ſo <hi>curteous,</hi> indeed ſo <hi>juſt</hi> unto the Memory of that bleſſed Saint, as, like the<note n="*" place="margin">Mat. 26. ult.</note> 
+                  <hi>ſcrip<g ref="char:EOLhyphen"/>ture,</hi> to have let your Reader ſeene his <hi>vertue,</hi> with his <hi>vice;</hi> his <hi>faith</hi> as over ballancing that his <hi>failing;</hi> at leaſt that none occaſion might be given for preſumption to prophaner hearts. And 2 that fault was not committed before the ho<g ref="char:EOLhyphen"/>ly ſupper, and therefore who would looke that he ſhould be ſuſpended from the ſupper for it, unleſſe you think one may be juſtly puniſhed before he hath offended. But you goe on <q>
+                     <hi>[and to all the diſciples, who as Peter did not yet beleeve the reſurrection, nor a great while after neither, nor indeed could they be brought to it.]</hi>
+                  </q> But Sir, let's give the <hi>juſt allowance</hi> unto this, and then it won't be found ſo much to <hi>light,</hi> as by your aggravations you would have men believe. For firſt 'twas not the <hi>generall reſurrection</hi> whereof they doubted, <pb n="5" facs="tcp:150215:4"/>as the <hi>Sadduces;</hi> nor conſequently That <hi>particular one</hi> of the body of Jeſus Chriſt. The failer as it ſeems, was made but in the <hi>Circumſtance of time, when it ſhould riſe:</hi> they thinking ſtrange, belike, that his ſhould lodge but
+<hi>three daies</hi> in the grave, where other bodies were to dwell even to the
+<hi>laſt.</hi> Nor yet doe I excuſe them for giving higher place to their
+<hi>owne thoughts,</hi> then their <hi>Maſters words.</hi> Well, you goe farther, and tell us too of <q>
+                     <hi>[Cleophas &amp;c.]</hi>
+                  </q> but I c'ant tell why, ſince that hee neither was of the twelve, nor re<g ref="char:EOLhyphen"/>ceived with them. You name
+<hi>Thomas</hi> alſo, but hee was in<g ref="char:EOLhyphen"/>cluded in <q>
+                     <hi>[all the Diſciples,]</hi>
+                  </q> whereof before. And laſt of all, you ſpeak of their expecting <q>
+                     <hi>[a temporall Kingdome]</hi>
+                  </q> where<g ref="char:EOLhyphen"/>in I grant they were miſtaken, in expecting more then was intended for them. Though yet it was the
+<hi>reſtauration of the Kingdome unto Iſrael,</hi>
+                  <note place="margin">Act.
+1.6.</note> and not the <hi>ſubjection of Iſrael unto themſelves</hi> whereof they did enquire. And all men know, the old alluſions of the Prophets about Meſſias Coming, do looke like ſuch as ſeeme to promiſe the bringing in of that at leaſt, as ſuperadded to a better ſtute.</p>
+               <p>Theſe are the <hi>ſeverall ſummes</hi> of thoſe your premiſes, the <hi>totall</hi> truly <hi>caſt up</hi> comes to this
+<q>
+                     <hi>[Chriſt gave the Supper to his weake Diſciples.]</hi>
+                  </q> What then? you leave the Reader to conclude himſelfe, wherein I'le do my beſt to help him, ſince you have not. As your queſtion runneth this you'd have, <hi>Therefore receiving the Communion in the company of ſuch, &amp;c. is lawfull.</hi> How well this followes we ſpare to ſpeake. But the concluſion ſhall be granted, as that which neither any doth <hi>oppoſe,</hi> nor the defence whereof your ſelfe do <hi>purpoſe.</hi> Otherwiſe as you meane, thus;<note place="margin">
+                     <hi>See above. &amp; Poſ. 5.</hi> [In the Or<g ref="char:EOLhyphen"/>dinance of the Lords &amp; Commons &amp;c.</note> 
+                  <hi>Therefore 'tis lawfull for a Miniſter to admit all his Pariſhoners, ignorant and ſcandalous, unto the ſupper, and it is unwarrantable for any con<g ref="char:EOLhyphen"/>ſcientious perſons to refuſe receiving with them.</hi>
+               </p>
+               <p>Whereto I anſwer. The Concluſion's bigger then the Premiſſes, and therefore Count it but on <hi>Courteſie</hi> if I take notice of the latter part. The other's thus. <hi>Chriſt gave &amp;c. Ergo, Miniſters may &amp;c.</hi> Here we deny the Conſequence.</p>
+               <pb n="6" facs="tcp:150215:5"/>
+               <div type="reasons">
+                  <head>Our reaſons are</head>
+                  <p n="1">1. <hi>Examples doe not neceſſarily conclude.</hi> I'me ſure thoug<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Chriſts example be in ſome, 'tis not in all things for our im<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>tation. I need not ſpeake of his faſting forty daies; we hav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a cleerer inſtance about his miniſteriall office:<note n="*" place="margin">Joh. 4.2.</note> 
+                     <hi>himſelf<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> baptized none,</hi> may miniſters therefore refuſe that exer<g ref="char:EOLhyphen"/>ciſe? 'Twould be a greatefull ſervice for the
+<hi>Seekers.</hi>
+                  </p>
+                  <p n="2">2. Divines ſay commonly (your ſelfe too I ſuppoſe) tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> from a church <hi>conſtituting</hi> to one <hi>conſtituted,</hi> the argumen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> doth not hold. We know that in the infancy of commo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> wealth's, whileſt lawes are making, policie framing, things may be done, according to emergencies; which after<g ref="char:EOLhyphen"/>wards muſt be foreborne. 'Ime ſure as to our buſineſſe, there were that time, no <hi>offices nor ce<g ref="char:cmbAbbrStroke">̄</g>ſures</hi> exerciſed amongſt the Apoſtles, as in a body politique; which afterward in their number did encreaſe, was not omitted.</p>
+                  <p n="3">3. Admit theſe two were very blanks; yet till you prove a likeneſſe (which you are never like to doe) 'twixt thoſe diſciples and your pariſhoners, this reaſon will be ſilent. Let the world be judge: for thus you argue. <hi>Chriſt gave the ſupper unto weake beleivers,</hi> therefore <hi>we may to wicked unbeleivers,</hi> (I count beleivers and diſciples <hi>here</hi> to be ſy<g ref="char:EOLhyphen"/>nonyma's.) For, Sir, lay all the Aggravations that your wit affordeth on the diſciples blemiſhes (whether to bol<g ref="char:EOLhyphen"/>ſter <hi>ignorance</hi> and <hi>prophaneneſſe,</hi> I dare not ſay, what e<g ref="char:EOLhyphen"/>ver others may ſuſpect) I ſay,<note place="margin">* Joh 6.68, 69, 2, 11, 16, 27, 17, 8. Luc. 22.32. Mat. 13.16. <hi>alibi paſſim,</hi> ô yee of little faith.</note> doe what you can (and yet you are dexterous at it) to rub and lance their ſores, youl't find them ſound at bottome, and <hi>true,</hi> though <hi>weake</hi> be<g ref="char:EOLhyphen"/>leivers in theyr <hi>fouleſt rags</hi> before the reſurection, as well as after in theyr <hi>faireſt robes.</hi> And though you labour till you ſweat, can it be proved that <hi>ignorant &amp; ſcandalous</hi> perſons (<note n="*" place="margin">As above &amp;c.</note> for ſuch you mainly plead for) are any other in ſcripture plaineſſe, then<note n="*" place="margin">Joh. 17.3. with c. 3.36. 1 Joh. 3. 3. Jam. 2.20.</note> wicked unbeleivers and doe you think that <hi>ſtrangers</hi> are as free unto the priviledges of a corpo<g ref="char:EOLhyphen"/>ration, <hi>as Citizens</hi> themſelves? But now let's ſee how well the other follows hence. You meane the weake Diſci<g ref="char:EOLhyphen"/>ples <pb n="7" facs="tcp:150215:5"/>or believers did receive together. Therefore the<note n="*" place="margin">Se laſt par<g ref="char:EOLhyphen"/>ticular of the 3. Poſ. <q>
+                           <hi>[mixt Communi<g ref="char:EOLhyphen"/>on.]</hi>
+                        </q>
+                     </note> mix<g ref="char:EOLhyphen"/>ture in this buſineſſe of godly and ungodly is lawfull. The very <hi>naming</hi> is a <hi>nulling</hi> of it.</p>
+                  <p>Thus Sir, I thinke your<note n="*" place="margin">Poſ.
+<hi>2</hi> ſub fi<g ref="char:EOLhyphen"/>nem.</note> ſtrongeſt <hi>hold</hi> appeares unable to
+<hi>hold</hi> out in your defence againſt the truth, whereof I let the reader judge imparitally. For your Prolepſis our ſpeciall buſineſſe with it is from part thereof to pick your meaning in the whole diſcourſe, and that we have already noted. <hi>Onely</hi> whereas you intimate, the only or maine reaſon of ſuſpention is for <hi>reformation;</hi> it's your miſtake at leaſt of others mindes, if not of truth, who judg the cheifer ends are to prevent the <hi>prophanacion</hi> of that <hi>Seal,</hi> &amp;
+<hi>condemnation</hi> of his <hi>ſoule</hi> that is unworthy.</p>
+                  <p>Laſtly that ſpeech of the <q>
+                        <hi>[diſciples vnbeleife]</hi>
+                     </q> may be in<g ref="char:EOLhyphen"/>terpreted either of the <hi>weakneſſe of theyr faith</hi> and then you might haue ſaid ſo: or ſimply of theyr <hi>want of faith</hi> (which may be thought you meane, and then it is before refuted</p>
+               </div>
+            </div>
+            <div n="2-7" type="positions">
+               <head>
+                  <label type="milestone">
+                     <seg type="milestoneunit">POS. </seg>2</label> Your ſecond is to this effect</head>
+               <p>
+                  <q>
+                     <hi>[Judas received, ergo &amp;c.]</hi>
+                  </q> you ſpend two pages and ſome what better, with no litle confidence, about the proving of your antecedent, that <hi>Judas did receive</hi> and thinke your office fairly done by diſproving of that place which <hi>unto moſt</hi> ſeemes <hi>moſt againſt</hi> it 'Tis <hi>Joh.</hi> 13.30. You ſay <q>
+                     <hi>[this place with all circu<g ref="char:cmbAbbrStroke">̄</g>ſtances ſeemes unanſwerably to prove the contrary]</hi>
+                  </q> but let us ſee the <hi>ſubſtance</hi> of thoſe <hi>circum<g ref="char:EOLunhyphen"/>ſtances</hi> you boaſt will do the buſineſſe.<note place="margin">Joh. 13.30.</note>
+               </p>
+               <p>Firſt let me tell you that I thinke you might have ſav<g ref="char:EOLhyphen"/>ed ſome paines and well reducd your five to two, or three particulars at moſt; but that this ſerves to fill the pa<g ref="char:EOLhyphen"/>per, and amaze the ſimple reader. But ſomething unto each,</p>
+               <p n="1">1 You ſay <q>[v. 2. <hi>ſupper, that is the paſſover was ended and that in the twilight.]</hi>
+                  </q> But Sir, here lies the ground of your mi<g ref="char:EOLhyphen"/>ſtake, in that you are not well acquainted with, or elſe op<g ref="char:EOLhyphen"/>pugne your knowledge in the Jewiſh rites at celebrating of the paſſover: which was breifly thus, as far as it concernes our purpoſe.<note n="*" place="margin">Scaliger 6. <hi>de Emend. p.</hi> 567.573. &amp; Beza on Mat. 26.
+<hi>So</hi> Godw. Jew. ant.</note> 
+                  <hi>In the evening they lay downe to eate the Lambe &amp; unleavened breade,</hi> which <hi>done they roſe and waſhed theyr <pb n="8" facs="tcp:150215:6"/>feet</hi> then <hi>returned again to a certaine</hi>
+                  <note n="*" place="margin">
+                     <hi>Leo Modena</hi> pag. 129. of this alſo.</note> 
+                  <hi>ſauce wherein they dipt theyr bread</hi> &amp;
+<hi>herbs.</hi> By this you may perceive what meanes the ſupper ended v. 2. that is, the firſt courſe: the interme<g ref="char:EOLhyphen"/>diat waſhing; and the dipped ſopp. Though I could have told you, that ſome tranſlate for<note n="*" place="margin">Muſc. in loc. Eraſmus.</note> 
+                  <hi>coena facta cum coena fi<g ref="char:EOLhyphen"/>eret,</hi> and one greek coppy reades<note n="*" place="margin">Beza.</note>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> as the reſt.</p>
+               <p n="2">
+                  <q>2. [<hi>After ſupper, and before the Communion, was done and ſaid all, from</hi> v. 2. to v. 17.]</q> True, rightly underſtood and untill verſe the 31. For the Communion what mention's made of that weel'e ſee anon.</p>
+               <p n="3">
+                  <q>3. [<hi>Our Saviour thrice intimated Judas's treaſon</hi> 1 <hi>long before,</hi> 2 <hi>then at his laſt paſſover and</hi> 3 <hi>at the Communion for certaine if not a litle after Luc.</hi>
+22.21.]</q> This laſt I anſwer in <hi>Beza's</hi> words,<note place="margin">
+                     <hi>In</hi> Luc. 22.</note> it appeareth plainly from the other Evan<g ref="char:EOLhyphen"/>geliſts and <hi>John</hi> eſpecially that this diſcourſe was at the ſe<g ref="char:EOLhyphen"/>cond courſe of the legall ſupper, and then for certaine not at the Communion, but before. So that your thrice is at the moſt but twice.</p>
+               <p n="4">
+                  <q>4 <hi>[The dipped ſop was a peece of the bleſſed and broken bread]</hi>
+                  </q> This is not only a <hi>bare miſtake</hi> (as by what above appeareth) but a <hi>bold dictate</hi> alſo; when nota ſyllable doth that Euan<g ref="char:EOLhyphen"/>geliſt uſe (which I can find) about bleſſing or breaking Sa<g ref="char:EOLhyphen"/>cramentall bread. 'Tis plaine he medles not at all about the inſtitution of the holy ſupper as being largely done by o<g ref="char:EOLhyphen"/>thers before him.<note n="*" place="margin">So <hi>Bucer, Calv. Bez.</hi> and the Authors Marg. Paralepomen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſcribebat Johan<g ref="char:EOLhyphen"/>nes omittens aliis dicta.</note>
+               </p>
+               <p n="5">
+                  <q>5 [<hi>Supper that is the Paſſover was ended by twilight v.</hi> 2. <hi>but Judas went not out till it was darke night v.</hi>
+30.] 1 <hi>v.</hi> 2.</q> proves not what you ſay, but if you meane your comment on it I referre my reader to my anſwer there, with this ad<g ref="char:EOLhyphen"/>dition that the Law of the Paſſover onely ſaith.<note n="*" place="margin">
+                     <hi>Exod.
+12.6.</hi> 
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>Between two Evenings, ſome thinke</hi> Veſpera Solis &amp; Lumi<g ref="char:EOLhyphen"/>nis. <hi>Others</hi> De<g ref="char:EOLhyphen"/>clinationis &amp; Occaſus.</note> 
+                  <hi>Kill it in the Evening.</hi> 2. To that of Judas going out at <q>
+                     <hi>[dark]</hi>
+                  </q> night, there's ſome thing of your owne in that, you know tis common with the ſcriptures and in our ordinary ſpeech to ſpeake of things as <hi>come</hi> or preſent, which are onely <hi>comming,</hi> or neare at hand: and ſo interpreters<note n="*" place="margin">
+                     <hi>Bulling.</hi> in Locum.</note> 
+                  <hi>Night was at hand.</hi>
+               </p>
+               <pb n="9" facs="tcp:150215:6"/>
+               <p>Now let the Reader judge, <hi>Quid dignum tanto &amp;c.</hi> Though I am not ignorant, nor deſirous to have him ſo, that the queſtion's controverted among ſome Learned. Yet un<g ref="char:EOLhyphen"/>to mee it ſeemeth evident, that they are right who hold the negative, as<note n="(a)" place="margin">Certa eorum videtur ſenten<g ref="char:EOLhyphen"/>tia qui exiſtima<g ref="char:cmbAbbrStroke">̄</g>t inſtitutioni S. coenae non inter fuiſſe. in <hi>Joh. 13.</hi>
+                  </note> 
+                  <hi>Beza,</hi>
+                  <note n="(b)" place="margin">Omnino pro<g ref="char:EOLhyphen"/>babile mihi vide<g ref="char:EOLhyphen"/>tur, Juda<g ref="char:cmbAbbrStroke">̄</g> coenae illi non interfu<g ref="char:EOLhyphen"/>iſſe. in <hi>Mat. 26.</hi>
+                  </note> 
+                  <hi>Piſcator</hi> &amp;c. which may be part<g ref="char:EOLhyphen"/>ly gathered from theſe words of Chriſt then ſpoken to thoſe preſent at the holy Supper: <hi>My body given for</hi> You: and <hi>blood ſhed for</hi> You. Wherein all know, that <hi>Judas</hi> had no part. And clearly from that <hi>John</hi> ſaith expreſly, he went out
+<hi>immediately</hi> upon the ſops receiving, which needs muſt be afore the Suppers inſtitution, as above appeareth. And though <hi>Parens</hi> doubted, yet marke his<note n="(c)" place="margin">Indè tamcu non ſequitur qd ſcelerati non ſint à menſa Domini arcendi juxta mandatum Apo<g ref="char:EOLhyphen"/>ſtoli cum talibus no cibum ſumite.</note> inference. <hi>It fol<g ref="char:EOLhyphen"/>lows not, that the wicked ſhould not be ſuſpended from Chriſts Table, as the Apoſtle wills: With ſuch not to eate.</hi>
+               </p>
+               <p>But ſhould we grant it. Then you'ld ſay, <hi>ſure Miniſters may to ſuch, &amp;c. None to forbeare, &amp;c.</hi>
+               </p>
+               <p>It follows not: for 1. review the two former anſwers to the 1
+<hi>Poſ.</hi> 2. <hi>Judas</hi> was an Apoſtle, a Preacher: nor do I find him whilſt he kept his Miniſtry branded with pro<g ref="char:EOLhyphen"/>phaneſſe. 3. And ſpecially, he was not yet convicted of his villanous treaſon, nor indeed accuſed of it,<note place="margin">* Non igitur quod Chriſtus o<g ref="char:EOLhyphen"/>raculo complen<g ref="char:EOLhyphen"/>do fecit trahi debet in exem<g ref="char:EOLhyphen"/>plum. <hi>Par. in Mat. 26.</hi>
+                  </note> which is no mar<g ref="char:EOLhyphen"/>vell ſince it was not then <hi>brought forth</hi> though (wretched caytiffe!) 'twas a <hi>breeding</hi> by him.</p>
+               <p>And for the other Diſciples, why ſhould they ſcruple Joyning with him, when as they knew no worſe by him then by themſelves? eſpecially ſince as you thinke, their <hi>Lord</hi> did not except againſt his coming thither.</p>
+               <p>Thus we have tryed your <hi>Champion reaſons.</hi> The reſt may go by <hi>number</hi> not by <hi>weight,</hi> and yet we'le lay them in the
+<hi>ballance</hi> too.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">POS. </seg>III</label>
+                  <q>[<hi>Not diſcerning the Lords body, is a great and perilous ſin, but not there or elſe where made aground to people to forbeare, &amp;c. as they ſuſpect &amp;c. nor Miniſter to ſuſpend whom he onely feares &amp;c.</hi>]</q> Indeed Sir you ſpeake very ſoftly yet may be over heard. Who tells you that
+<hi>ſuſpition barely</hi> in the one or <hi>onely feare</hi> in the other: is ground enough for ſuch pro<g ref="char:EOLhyphen"/>ceedings? <pb n="10" facs="tcp:150215:7"/>In truth I would make one to chide ſuch jealous ſpirits if I could find them. Yet ſee how well you doe it. <hi>Not diſcerning is not held forth. Ergo, nothing elſe.</hi> Surely you will not ſtand to this But farther, do you thinke there is <hi>no ground</hi> to either <hi>when</hi> 'tis known that ſuch do eat and drinke damnation to themſelfes? Me thinke your ſe<g ref="char:EOLhyphen"/>cond thoughts ſhould grant it ſomething <hi>to encourage mad<g ref="char:EOLhyphen"/>men</hi> to deſtroy themſelves,<note place="margin">1 Cor. 11.</note> and more to put
+<hi>Knifes</hi> in their hands to cut <hi>their throats</hi> with all. And need I make the <hi>Ap<g ref="char:EOLhyphen"/>plication?</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">POS. </seg>IIII</label>
+                  <q>[<hi>To communicate with unworthy receivours is not held forth</hi> 1 <hi>Cor.</hi> 11.29, 30, <hi>to us to be any cauſe of temporall much leſſe eternall judgement to thoſe that are worthy though co<g ref="char:cmbAbbrStroke">̄</g>muni<g ref="char:EOLhyphen"/>cating with them.</hi>]</q> Suppoſe it be not there, might not divine indulgence be the reaſon of it as well as what you ayme at? Or, it is not there held forth as a ground of any judgement: but it may be elſe where. I wonder how you would expound that place of
+<hi>Numb.</hi> 16.26. and that too <hi>Revel.</hi> 18.4. <hi>Be not pertakers of her ſinnes that ye receive not of her plagues.</hi>
+                  <note place="margin">Num.
+16.26. Rev. 18.4.</note> But to paſſe that by. We know the whole church was not onely<note n="*" place="margin">1 Cor. 5.</note> elſewhere blamed about their <hi>countenance</hi> to, and <hi>continuance</hi> of that ſcandalous perſon in their fellwſhip: but in this very chapter alſo for the ſame diſorder whereof wee ſpeake v. 17.22, 31.</p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">POS. </seg>V</label> Your 5 doth quite <hi>forget it</hi> ſelfe; &amp; yet we muſt <hi>reme<g ref="char:cmbAbbrStroke">̄</g>ber</hi> to ſay ſomething to it for the Readers ſake. It begins <q>[<hi>In the Ordinance of Lords and Commons &amp;c.</hi>
+                  </q> We know they did make many, but no doubt, you meane that of
+<hi>ſuſpending ig<g ref="char:EOLhyphen"/>norant: and ſcandelous from</hi> the ſupper. (By this againe ob<g ref="char:EOLhyphen"/>ſerve, good Reader, as above we noted, whom our Author in this worke doth vindicate, <hi>viz. Ignorant and ſcandalous perſons</hi> againſt whom that Ordinance was provided.) But Sir, let us conſult the
+<hi>Ordinances of Jeſus Chriſt the Lord of Lords and Commons,</hi> and ſubmit to theirs as they agree to his, Otherwiſe <hi>'tis better to obey God then men.</hi>
+                  <note place="margin">Act. 5.</note> Whereas you af<g ref="char:EOLhyphen"/>ter ſpeake of ſome, <q>
+                     <hi>godly livers that can give little or no ac<g ref="char:EOLhyphen"/>count
+<pb n="11" facs="tcp:150215:7"/>of his faith almoſt in words.</hi>]</q> 
+                  <hi>You do but well to ſpeake for him that can ſay nothing for himſelfe.</hi> And truſt me when I meet that <hi>dumbe beleever,</hi> he may expect my my good word alſo. Onely 'tis pitty the Apoſtle <hi>Peter</hi> ſhould forget him, when he bids us all <hi>be ready to for to give a reaſon of our Hope.</hi> And for your charity that perſwades you, had he not a good meaſure of <q>
+                     <hi>Chriſtian faith and knowledge in his heart, he would not ſhew ſo much in life.</hi>]</q> You may remember <hi>All's not gold that gliſters.</hi> Alas Sir, that you ſhould be ignorant that o<g ref="char:EOLhyphen"/>ther principles beſide Chriſtian faith &amp; knowledge may ſerve to moralize men in their lives. What was it that made
+<hi>Paul</hi> ſo blameleſſe whilſt a Phariſee? And very Heathens famous (as to this) unto poſterity?<note place="margin">Pſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> i. 3.</note> 
+                  <hi>I trow not Chriſtian faith and knowledge.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">POS. </seg>VI</label> Your 6. hath ſo farre loſt it's way, that, I profeſſe, I know not where to find it. Nor do I thinke
+<hi>a hue and cry</hi> could meet the meaning of it. You tell us what <hi>Queen Eli<g ref="char:EOLhyphen"/>zabeth</hi> ſaid about theſe words, <hi>This is my body:</hi>
+               </p>
+               <lg>
+                  <l>
+                     <hi>Chriſt tooke the bread and brake it,</hi>
+                  </l>
+                  <l>
+                     <hi>He was the Word that ſpake it,</hi>
+                  </l>
+                  <l>
+                     <hi>And what that Word did make it,</hi>
+                  </l>
+                  <l>
+                     <hi>I do receive and take it.</hi>
+                  </l>
+               </lg>
+               <p>I hope you would not give lift to ſet up <hi>bankrupt tranſub<g ref="char:EOLhyphen"/>ſtantiation</hi> once againe in <hi>England.</hi> And for your deſcant on it, <hi>All controverſies are beſt ſhut up with ſuch ſhort reſolu<g ref="char:EOLhyphen"/>tioni as this is.</hi> I muſt confeſſe, this were a
+<hi>ſhort</hi> if <hi>ſafe</hi> di<g ref="char:EOLhyphen"/>ſpatch. But ſure ſuch
+<hi>remedy</hi> is worſe then the <hi>malady.</hi> I thinke (for all the papiſt<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) that ignorance is ſtill the mother of <hi>Error,</hi> not <hi>Devotion.</hi> Once it was certaine that<note n="*" place="margin">Hoſ. 4.6.</note> 
+                  <hi>people periſhed for lack of knowledge.</hi> Nor fared they beter that <hi>worſhipped they knew, not what.</hi>
+                  <note place="margin">Joh. 4.</note> And yet ſhall wee
+<hi>believe we can't tell what,</hi> and <hi>practiſe what we can't believe.</hi> It is e<g ref="char:EOLhyphen"/>nough. Implicit faith (it ſeemes) hath faſter
+<hi>friends</hi> then all men <hi>find.</hi>
+               </p>
+               <p>
+                  <label type="milestone">
+                     <seg type="milestoneunit">POS. </seg>VII</label> Your laſt is mainly an Apologie, for the Parliaments <pb n="12" facs="tcp:150215:8"/>good opinion of you notwithſtanding this your undertake<g ref="char:EOLhyphen"/>ment; whether to ſerve the times, or other ends, it is no matter; I, for my part, will promiſe not to ſpeake a word againſt you in it. Only I muſt take notice how you ſay <q>
+                     <hi>[no<g ref="char:EOLhyphen"/>thing was defective in your former way as preceptively to worthy receiving, neceſſary.]</hi>
+                  </q> And yet in your whole ſheet you have not one poſition or any portio<g ref="char:cmbAbbrStroke">̄</g> grou<g ref="char:cmbAbbrStroke">̄</g>ded on a <hi>precept.</hi> Perhaps you have a
+<hi>charter</hi> that examples barely may ſerve to <hi>raiſe</hi> your buildings up, but precepts only <hi>raze</hi> them down. How<g ref="char:EOLhyphen"/>ere I doubt not but the Reader ſees by this time (though you make the beſt on't, by ſetting a good face upon the bu<g ref="char:EOLhyphen"/>ſineſſe) that you are poorely provided of that kind of fur<g ref="char:EOLhyphen"/>niture likewiſe. So that had not the <hi>Magiſtrates ſword</hi> ſtuck cloſer then <hi>Gods Word</hi> unto your former way it would have tumbled long agoe. And laſtly for that <hi>monument</hi> your lines erect upon the antient <q>[<hi>Rules</hi> &amp; <hi>Rubricks</hi>]</q> in Engliſh, common <gap reason="illegible" resp="#OXF" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>er and all it's appurtenancs) you doe but keep the <hi>antient rule. Nothing but well of the dead.</hi> And let them <hi>reſt,</hi> &amp; <hi>r<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tt</hi> for me at quiet in
+<hi>theyr graves</hi> for ever.</p>
+               <p>Thus, Reader, as I hope I have done the truth and thy ſelfe too, right, nor any wrong unto the Author. Now with thy leave, to prevent a vacuum, Il'e take my turne to ſtuffe this paper up, by way of Eſſay, in aſſerting ſome thing of mine owne opinſon; as well as hither to in anſwering of an others.</p>
+            </div>
+         </div>
+         <div type="appendix">
+            <head>
+               <g ref="char:V">Ʋ</g>ngodly perſons ought not to be admitted to the holy ſupper</head>
+            <p>The <hi>termes</hi> are <hi>cleare</hi> to thoſe that will not
+<hi>cavill.</hi> And I hope anon the <hi>propoſition</hi> ſhall to ſuch as arn't on purpoſe ſett againſt it.</p>
+            <p n="1">
+               <label type="milestone">
+                  <seg type="milestoneunit">PRECEPT. </seg>I</label> 1. Tis againſt the meaning of Chriſts mandate at the in<g ref="char:EOLhyphen"/>ſtitution <hi>Mat.</hi> 26.
+<hi>Mar</hi> 14. &amp; <hi>Luc.</hi> 22.19. <hi>Take. i. Ye. and ſhed for</hi> Your<g ref="char:punc">▪</g> 
+               <hi>given for</hi> You: <hi>i</hi> diſciples godly or believers not others (<hi>for what haſt thou to doe to take my Covenant into
+<pb n="13" facs="tcp:150215:8"/>thy mouth &amp;c.</hi>) repeated 1 <hi>Cor.</hi> 12.11. broken for <hi>You.</hi> ſtill reſtrained to <hi>Saints</hi> as 1
+<hi>Cor.</hi> 1.2. <hi>Clearly</hi> explained 1 <hi>Cor.</hi> 5. <hi>with ſuch not to eat</hi> whereon <hi>Pareus</hi>
+               <note n="*" place="margin">Si convict is prophano cum ta<g ref="char:EOLhyphen"/>libus interditi<g ref="char:EOLhyphen"/>tur, quanto magis convictu ſacro<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Par. in 1. Cor.
+5.11.</hi>
+               </note> 
+               <hi>If that meere civill how much more ſacred tabling is for bad with ſuch</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ungodly, though at large profeſſors.</p>
+            <p n="2">
+               <label type="milestone">
+                  <seg type="milestoneunit">PRACTISE </seg>2</label> 2 'Tis againſt the approved cuſtome of the <hi>primitive purer times</hi>
+               <note n="*" place="margin">
+                  <hi>Infractione Euchariſtiae</hi> Syr. Interp.</note>
+               <hi>Acts</hi> 2.42, 46. &amp; 20.7. believers,<note place="margin">2 PRACTISE</note> and none other ſpoken of. Whether ungodly were admitted to the <hi>commu<g ref="char:EOLhyphen"/>nion</hi> with the faithfull <hi>then</hi> may ſoon be ſeene
+<hi>Rom</hi> 1.6, 7. <hi>called to be Saints.</hi> theres of that church. The like the 1 <hi>Cor.</hi> 1.2. <hi>Eph.</hi> 1.1. <hi>Col.</hi> 1.2.
+<hi>Phil.</hi> 1.1. <hi>&amp;c.</hi> Surely they were not there <hi>de jure</hi> 2 <hi>Cor.</hi> 6.14. <hi>Be not unequally yoked with unbeleevers</hi> (ſee v. 15.16, 17.) not in <hi>breaking bread</hi> at leaſt.</p>
+            <p>And now me thinkes <hi>Chriſts precept</hi> and the
+<hi>Chriſtans practiſe</hi> agreeing with it, ſhould gaine on tender hearts to be accounted <hi>full of duty, free from danger;</hi> &amp; that
+<hi>beaten roade</hi> much better then <hi>by pathes</hi> that hav<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rod at firſt at beſt but by a <hi>ſinfull man</hi> if not the <hi>man of</hi>
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">REASON. </seg>3</label> And yet good reaſons may be farther added. A few Ile <hi>intimate,</hi> thy ſelfe <hi>enlarge</hi> them.</p>
+            <p n="1">1 Chriſts <hi>Order</hi> in his <hi>Ordinances</hi> would be inverted by it, his <hi>word</hi> ſhould be <hi>received,</hi> before this
+<hi>Seale applyed.</hi> Twere vaine to <hi>Seale a blanke.</hi> That's for<note n="*" place="margin">James 1.</note> begetting this encreaſ<g ref="char:EOLhyphen"/>ing grace. Men firſt muſt <hi>live</hi> before they <hi>eat</hi> &amp; <hi>grow.</hi>
+            </p>
+            <p n="2">2 It would pervert the end of this perticularly. Breefly: on Gods part. Firſt to<note n="(a)" place="margin">Signe.</note>
+               <hi>repreſent</hi> Chriſts death and benefits 2ly to<note n="(b)" place="margin">Seale.</note> 
+               <hi>ratiſie</hi> our ſoules communion with him and<note n="(c)" place="margin">1 Cor. 10.</note> one another in them. How ſutes this with ungodly men? A<g ref="char:EOLhyphen"/>gaine, mans acts are anſwerable. Firſt,<note n="(d)" place="margin">1 Cor. 11.</note> 
+               <hi>commemoration of the benefits.</hi> Secondly,<note n="(e)" place="margin">Jer. 31.33. 1 Cor. 15.31. Rom 6.3.</note> 
+               <hi>obligation to obedience.</hi> Who ſees not theſe peculiar to believers?</p>
+            <p n="3">3 They ought not where a Church is gathering to be
+<hi>re<g ref="char:EOLhyphen"/>ceived</hi> into fellowſhip<g ref="char:punc">▪</g> or if there, to be
+<hi>rejected,</hi>
+               <note place="margin">2 Cor. 6.15. Matt. 18.17<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> &amp; 1 Cor. 5</note> with<g ref="char:EOLhyphen"/>out repentance.</p>
+            <p n="4">4 They have no right unto the <hi>thing:</hi> How then unto
+<pb n="14" facs="tcp:150215:9" rendition="simple:additions"/>the Signe? They are <hi>open enimles</hi> unto Chriſt and ſhou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>ſit at table</hi> with him?</p>
+            <p n="5">5 The <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>preſence is of danger to the Church approvin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>A little da<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>en leaveneth the whole lumpe:</hi> ſpoken of the <hi>perſo<gap reason="illegible" resp="#OXF" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi>
+            </p>
+            <p n="6">6. <hi>They eat and drinke damnation to themſelves.</hi>
+               <note place="margin">1 C<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>. 11. &amp; 5.</note> And then what cauſe have all ungodly ignorant and unbe<g ref="char:EOLhyphen"/>lievers to tremble in approaching to
+<hi>Chriſt's tables</hi> Since the which <hi>proſit</hi> Saints there,<note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Cor.
+11.</note> 
+               <hi>poyſons</hi> them. Theſe have they <hi>death procured,</hi> by what they have theyr <hi>life preſerved.</hi> And doth it not concerne the godly too <hi>in prudence</hi> to them<g ref="char:EOLhyphen"/>ſelves, <hi>in pitty</hi> unto them, but moſt in <hi>piety</hi> towards Chriſt to preſerve his worſhip
+<hi>pure,</hi> theyr ſoules, from <hi>periſhing</hi> them ſelves to from
+<hi>pollution,</hi> by forbearing ſuch commu<g ref="char:EOLhyphen"/>nion with ungodly perſons?
+<hi>Chriſt's Stewards</hi> ſpecially to have a <hi>care</hi> of
+<hi>caſting Pearles to ſwine,</hi> &amp; <hi>Childrens bread to dogs:</hi> which proves not <hi>bread</hi> but <hi>ſtone,</hi> not <hi>fiſh</hi> but
+<hi>ſerpent</hi> unto ſuch reſe<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>
+            </p>
+            <p>And laſtly <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oke unto the <hi>Lawe</hi> and <hi>teſtimony</hi> to be theyr <hi>guide</hi> in all theyr
+<hi>goings.</hi>
+               <note place="margin">Eſ.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note>
+            </p>
+            <p>
+               <hi>And as many as walke according to this Rule peace be unto them and mercy and upon the Iſraell of God.</hi>
+               <note place="margin">Gal.
+6.16.</note>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="license_to_print">
+            <p>PUBLISHED BY AUTHORITY.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
